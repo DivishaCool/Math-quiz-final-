@@ -1,0 +1,80 @@
+body
+{
+	text-align: center;
+}
+.login_div1 , .login_div2
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	width: 30%;
+	height: 150px;
+	background-color: pink;
+}
+
+
+#player1_name , #player2_name
+{
+display: inline-block;
+margin-left: 3px;
+color: rgb(243, 206, 200);
+font-weight: bold;
+}
+#word
+{
+width: 60%;
+}
+#word_display
+{
+letter-spacing: 5px;
+}
+#output
+{
+background-color:white;
+border-radius: 10px;
+border-top: 10px solid pink;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+color:pink;
+font-family:cursive;
+}
+h3{
+font-family: serif;
+color:white;
+}
+#username{
+font-family: cursive;
+color: pink;
+}
+button{
+font-family: cursive;
+}
+
+
+
+#number_1,#number_2
+{
+color: rgb(215, 99, 219);
+font-weight: bold;
+}
+h4{
+color:white;
+font-family: cursive;
+width: 100px;
+}
+#player_1_name, #player_2_name{
+display: inline-block;
+margin-left: 3px;
+}
+
+#game{
+	background-color:powderblue;
+}
+
+#score{
+	text-align: left;
+}
